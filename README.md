@@ -1,2 +1,2 @@
 My first readme
-I had an updated file in my readme. 
+How to be up to date in git
